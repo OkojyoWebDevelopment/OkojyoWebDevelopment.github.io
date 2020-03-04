@@ -1,4 +1,4 @@
-<img src="okojyomin.JPG" width="200">
+<img src="okojyomin.jpg" width="200">
 
 # About
 こんにちは○○です。Githubページテストです
