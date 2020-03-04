@@ -33,3 +33,23 @@ Web開発　マーケティングを中心に活動しています。
  1. 要素2  
  1. 要素3  
  
+# Skills  
+- WordPress
+- GitHub  
+- HTHL CSS  
+※JavaScriptなどは詳しくなんの言語が使えるか書いたほうが良い。
+
+# Works  
+- [GitHub Page Okojyo](https://okojyowebdevelopment.github.io)  
+-作った作品   
+　- [GitHub Page Okojyo](https://okojyowebdevelopment.github.io)  
+　- [GitHub Page Okojyo](https://okojyowebdevelopment.github.io)  
+- GitHub Page  
+
+# Contact  
+　- [twitter](https://okojyowebdevelopment.github.io)  
+　- [インスタグラム](https://okojyowebdevelopment.github.io)  
+　- ここにメールアドレス（直に載せていいかも）
+ 
+ 
+ 
