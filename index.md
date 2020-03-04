@@ -76,6 +76,9 @@ Web開発　マーケティングを中心に活動しています。
 
 <a class="twitter-timeline" data-width="400" data-height="550" data-theme="dark" href="https://twitter.com/hikakin?ref_src=twsrc%5Etfw">Tweets by hikakin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今年、USJにマリオの世界が新しくできるの知ってた？🌏その世界を先行体験できるイベントがアメリカであったので参加してきました🇺🇸✈️ニューヨークの街中がハテナブロックだらけでした😂🎉今度ヒカキンTVにて動画公開するのでお楽しみに！😎👍<a href="https://twitter.com/hashtag/WeAreMario?src=hash&amp;ref_src=twsrc%5Etfw">#WeAreMario</a> <a href="https://twitter.com/hashtag/USJ?src=hash&amp;ref_src=twsrc%5Etfw">#USJ</a><a href="https://twitter.com/hashtag/SUPERNINTENDOWORLD?src=hash&amp;ref_src=twsrc%5Etfw">#SUPERNINTENDOWORLD</a> <a href="https://twitter.com/hashtag/PR?src=hash&amp;ref_src=twsrc%5Etfw">#PR</a> <a href="https://t.co/OvomHLUCkm">pic.twitter.com/OvomHLUCkm</a></p>&mdash; HIKAKIN😎ヒカキン 【YouTuber】 (@hikakin) <a href="https://twitter.com/hikakin/status/1231154300493000704?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 
