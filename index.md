@@ -21,7 +21,7 @@ Web開発　マーケティングを中心に活動しています。
 
 段落（空の行は段落になる）
 
-[これが実際のリンクです](https://www.nnn.ed.nico/lessons/search?q=Web%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)
+[これが実際のリンクです](https://okojyowebdevelopment.github.io/)
 
 順序なしリスト  
 - 要素1  
