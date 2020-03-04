@@ -1,3 +1,5 @@
+<img src="okojyo.JPG" width="200">
+
 # About
 こんにちは○○です。Githubページテストです
 Web
@@ -69,6 +71,9 @@ Web開発　マーケティングを中心に活動しています。
 *****
 - - -
 ---------------------------------------
- 
-! [プロフィール画像](okojyo.JPG)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEDoDWMYEpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
